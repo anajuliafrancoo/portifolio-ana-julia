@@ -5,11 +5,8 @@ Seja bem-vindo(a) ao repositório do meu portfólio pessoal! Aqui reuni alguns d
 ---
 
 ### 🚀 Acesse o projeto no ar
-Clique no botão abaixo para navegar pelo portfólio em tempo real:
 
-[![Acessar Portfólio](https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-LINK-AQUI.vercel.app)
-
-> 💡 **URL direta:** [https://SEU-LINK-AQUI.vercel.app](https://SEU-LINK-AQUI.vercel.app)
+> 💡 **URL direta:** [https://portifolio-ana-julia-chi.vercel.app/](https://portifolio-ana-julia-chi.vercel.app/)
 
 ---
 
